@@ -1,0 +1,1360 @@
+[26-Oct-2023 06:27:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[26-Oct-2023 06:27:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[26-Oct-2023 06:27:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[26-Oct-2023 06:27:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[26-Oct-2023 06:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[26-Oct-2023 06:27:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[26-Oct-2023 06:27:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[26-Oct-2023 06:27:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[26-Oct-2023 06:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[26-Oct-2023 06:27:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[26-Oct-2023 06:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[26-Oct-2023 06:27:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[26-Oct-2023 06:27:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[26-Oct-2023 06:28:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[26-Oct-2023 06:28:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[26-Oct-2023 06:28:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[26-Oct-2023 06:28:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[26-Oct-2023 06:28:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[26-Oct-2023 06:28:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[26-Oct-2023 06:28:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[26-Oct-2023 06:28:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[26-Oct-2023 06:28:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[26-Oct-2023 06:28:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[26-Oct-2023 06:28:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[26-Oct-2023 06:28:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[26-Oct-2023 06:29:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[26-Oct-2023 06:29:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[26-Oct-2023 06:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[26-Oct-2023 06:29:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[26-Oct-2023 06:29:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[26-Oct-2023 06:29:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[26-Oct-2023 06:29:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[26-Oct-2023 06:29:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[26-Oct-2023 06:29:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[31-Oct-2023 21:26:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[31-Oct-2023 21:26:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[31-Oct-2023 21:26:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[31-Oct-2023 21:26:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[31-Oct-2023 21:26:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[31-Oct-2023 21:26:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[31-Oct-2023 21:26:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[31-Oct-2023 21:26:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[31-Oct-2023 21:26:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[31-Oct-2023 21:26:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[31-Oct-2023 21:26:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[31-Oct-2023 21:26:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[31-Oct-2023 21:26:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[31-Oct-2023 21:26:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[31-Oct-2023 21:26:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[31-Oct-2023 21:26:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[31-Oct-2023 21:26:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[31-Oct-2023 21:26:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[31-Oct-2023 21:26:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[31-Oct-2023 21:26:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[31-Oct-2023 21:26:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[31-Oct-2023 21:26:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[31-Oct-2023 21:26:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[31-Oct-2023 21:26:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[31-Oct-2023 21:26:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[31-Oct-2023 21:26:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[31-Oct-2023 21:26:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[31-Oct-2023 21:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[31-Oct-2023 21:26:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[31-Oct-2023 21:26:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[31-Oct-2023 21:26:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[31-Oct-2023 21:26:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[31-Oct-2023 21:26:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[31-Oct-2023 21:26:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[17-Nov-2023 03:54:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[17-Nov-2023 03:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[17-Nov-2023 03:54:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[17-Nov-2023 03:54:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[17-Nov-2023 03:54:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[17-Nov-2023 03:54:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[17-Nov-2023 03:54:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[17-Nov-2023 03:54:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[17-Nov-2023 03:54:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[17-Nov-2023 03:54:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[17-Nov-2023 03:54:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[17-Nov-2023 03:54:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[17-Nov-2023 03:54:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[17-Nov-2023 03:54:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[17-Nov-2023 03:54:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[17-Nov-2023 03:54:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[17-Nov-2023 03:54:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[17-Nov-2023 03:54:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[17-Nov-2023 03:54:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[17-Nov-2023 03:54:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[17-Nov-2023 03:54:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[17-Nov-2023 03:54:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[17-Nov-2023 03:54:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[17-Nov-2023 03:54:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[17-Nov-2023 03:54:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[17-Nov-2023 03:54:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[17-Nov-2023 03:54:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[17-Nov-2023 03:54:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[17-Nov-2023 03:54:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[17-Nov-2023 03:54:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[17-Nov-2023 03:54:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[17-Nov-2023 03:54:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[17-Nov-2023 03:54:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[17-Nov-2023 03:54:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[19-Nov-2023 03:48:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[19-Nov-2023 03:48:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[19-Nov-2023 03:48:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[19-Nov-2023 03:48:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[19-Nov-2023 03:48:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[19-Nov-2023 03:48:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[19-Nov-2023 03:48:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[19-Nov-2023 03:48:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[19-Nov-2023 03:48:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[19-Nov-2023 03:48:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[19-Nov-2023 03:48:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[19-Nov-2023 03:48:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[19-Nov-2023 03:48:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[19-Nov-2023 03:48:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[19-Nov-2023 03:49:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[19-Nov-2023 03:49:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[19-Nov-2023 03:49:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[19-Nov-2023 03:49:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[19-Nov-2023 03:49:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[19-Nov-2023 03:49:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[19-Nov-2023 03:49:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[19-Nov-2023 03:49:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[19-Nov-2023 03:49:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[19-Nov-2023 03:49:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[19-Nov-2023 03:49:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[19-Nov-2023 03:49:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[19-Nov-2023 03:49:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[19-Nov-2023 03:49:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[19-Nov-2023 03:49:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[19-Nov-2023 03:49:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[19-Nov-2023 03:49:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[19-Nov-2023 03:49:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[19-Nov-2023 03:49:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[19-Nov-2023 03:49:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[20-Nov-2023 12:16:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[20-Nov-2023 12:16:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[20-Nov-2023 12:16:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[20-Nov-2023 12:16:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[20-Nov-2023 12:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[20-Nov-2023 12:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[20-Nov-2023 12:16:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[20-Nov-2023 12:16:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[20-Nov-2023 12:16:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[20-Nov-2023 12:16:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[20-Nov-2023 12:16:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[20-Nov-2023 12:16:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[20-Nov-2023 12:16:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[20-Nov-2023 12:16:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[20-Nov-2023 12:16:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[20-Nov-2023 12:16:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[20-Nov-2023 12:16:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[20-Nov-2023 12:16:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[20-Nov-2023 12:16:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[20-Nov-2023 12:16:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[20-Nov-2023 12:16:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[20-Nov-2023 12:16:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[20-Nov-2023 12:16:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[20-Nov-2023 12:17:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[20-Nov-2023 12:17:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[20-Nov-2023 12:17:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[20-Nov-2023 12:17:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[20-Nov-2023 12:17:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[20-Nov-2023 12:17:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[20-Nov-2023 12:17:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[20-Nov-2023 12:17:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[20-Nov-2023 12:17:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[20-Nov-2023 12:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[20-Nov-2023 12:17:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[24-Nov-2023 22:38:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[24-Nov-2023 22:38:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[24-Nov-2023 22:38:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[24-Nov-2023 22:38:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[24-Nov-2023 22:38:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[24-Nov-2023 22:38:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[24-Nov-2023 22:38:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[24-Nov-2023 22:38:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[24-Nov-2023 22:38:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[24-Nov-2023 22:38:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[24-Nov-2023 22:38:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[24-Nov-2023 22:38:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[24-Nov-2023 22:38:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[24-Nov-2023 22:38:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[24-Nov-2023 22:38:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[24-Nov-2023 22:38:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[24-Nov-2023 22:38:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[24-Nov-2023 22:38:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[24-Nov-2023 22:38:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[24-Nov-2023 22:38:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[24-Nov-2023 22:38:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[24-Nov-2023 22:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[24-Nov-2023 22:39:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[24-Nov-2023 22:39:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[24-Nov-2023 22:39:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[24-Nov-2023 22:39:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[24-Nov-2023 22:39:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[24-Nov-2023 22:39:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[24-Nov-2023 22:39:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[24-Nov-2023 22:39:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[24-Nov-2023 22:39:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[24-Nov-2023 22:39:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[24-Nov-2023 22:39:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[24-Nov-2023 22:39:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[27-Nov-2023 11:41:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[27-Nov-2023 11:41:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[27-Nov-2023 11:41:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[27-Nov-2023 11:41:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[27-Nov-2023 11:41:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[27-Nov-2023 11:41:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[27-Nov-2023 11:41:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[27-Nov-2023 11:41:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[27-Nov-2023 11:41:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[27-Nov-2023 11:41:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[27-Nov-2023 11:41:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[27-Nov-2023 11:42:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[27-Nov-2023 11:42:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[27-Nov-2023 11:42:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[27-Nov-2023 11:42:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[27-Nov-2023 11:42:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[27-Nov-2023 11:42:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[27-Nov-2023 11:42:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[27-Nov-2023 11:42:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[27-Nov-2023 11:42:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[27-Nov-2023 11:42:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[27-Nov-2023 11:42:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[27-Nov-2023 11:42:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[27-Nov-2023 11:43:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[27-Nov-2023 11:43:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[27-Nov-2023 11:43:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[27-Nov-2023 11:43:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[27-Nov-2023 11:43:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[27-Nov-2023 11:43:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[27-Nov-2023 11:43:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[27-Nov-2023 11:43:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[27-Nov-2023 11:43:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[27-Nov-2023 11:43:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[27-Nov-2023 11:43:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[28-Nov-2023 12:34:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[28-Nov-2023 12:34:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[28-Nov-2023 12:34:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[28-Nov-2023 12:34:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[28-Nov-2023 12:34:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[28-Nov-2023 12:34:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[28-Nov-2023 12:34:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[28-Nov-2023 12:34:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[28-Nov-2023 12:34:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[28-Nov-2023 12:34:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[28-Nov-2023 12:34:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[28-Nov-2023 12:34:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[28-Nov-2023 12:34:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[28-Nov-2023 12:34:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[28-Nov-2023 12:34:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[28-Nov-2023 12:34:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[28-Nov-2023 12:34:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[28-Nov-2023 12:34:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[28-Nov-2023 12:34:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[28-Nov-2023 12:34:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[28-Nov-2023 12:34:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[28-Nov-2023 12:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[28-Nov-2023 12:34:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[28-Nov-2023 12:34:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[28-Nov-2023 12:34:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[28-Nov-2023 12:34:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[28-Nov-2023 12:34:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[28-Nov-2023 12:34:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[28-Nov-2023 12:34:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[28-Nov-2023 12:34:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[28-Nov-2023 12:34:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[28-Nov-2023 12:34:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[28-Nov-2023 12:34:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[28-Nov-2023 12:34:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[01-Dec-2023 18:33:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[01-Dec-2023 18:33:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[01-Dec-2023 18:33:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[01-Dec-2023 18:33:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[01-Dec-2023 18:33:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[01-Dec-2023 18:33:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[01-Dec-2023 18:33:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[01-Dec-2023 18:33:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[01-Dec-2023 18:33:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[01-Dec-2023 18:33:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[01-Dec-2023 18:33:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[01-Dec-2023 18:33:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[01-Dec-2023 18:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[01-Dec-2023 18:33:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[01-Dec-2023 18:33:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[01-Dec-2023 18:33:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[01-Dec-2023 18:33:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[01-Dec-2023 18:33:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[01-Dec-2023 18:33:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[01-Dec-2023 18:33:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[01-Dec-2023 18:33:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[01-Dec-2023 18:33:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[01-Dec-2023 18:33:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[01-Dec-2023 18:33:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[01-Dec-2023 18:33:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[01-Dec-2023 18:33:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[01-Dec-2023 18:33:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[01-Dec-2023 18:33:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[01-Dec-2023 18:33:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[01-Dec-2023 18:33:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[01-Dec-2023 18:33:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[01-Dec-2023 18:33:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[01-Dec-2023 18:33:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[01-Dec-2023 18:33:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[09-Dec-2023 19:16:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[09-Dec-2023 19:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[09-Dec-2023 19:16:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[09-Dec-2023 19:16:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[09-Dec-2023 19:16:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[09-Dec-2023 19:16:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[09-Dec-2023 19:16:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[09-Dec-2023 19:16:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[09-Dec-2023 19:16:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[09-Dec-2023 19:16:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[09-Dec-2023 19:16:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[09-Dec-2023 19:16:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Upload_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[09-Dec-2023 19:16:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[09-Dec-2023 19:16:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[09-Dec-2023 19:16:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[09-Dec-2023 19:16:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[09-Dec-2023 19:16:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[09-Dec-2023 19:16:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[09-Dec-2023 19:16:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[09-Dec-2023 19:16:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[09-Dec-2023 19:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[09-Dec-2023 19:16:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Setting' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[09-Dec-2023 19:16:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[09-Dec-2023 19:16:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[09-Dec-2023 19:16:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[09-Dec-2023 19:16:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[09-Dec-2023 19:16:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Cropped_Image_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[09-Dec-2023 19:16:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[09-Dec-2023 19:16:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Panel' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[09-Dec-2023 19:16:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Section' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[09-Dec-2023 19:16:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Media_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[09-Dec-2023 19:16:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[09-Dec-2023 19:16:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[09-Dec-2023 19:16:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Customize_Control' not found in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

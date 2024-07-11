@@ -1,0 +1,836 @@
+[22-Dec-2022 14:57:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[07-Mar-2023 18:05:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[07-Mar-2023 18:05:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[21-Mar-2023 05:34:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[21-Mar-2023 05:34:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[17-Apr-2023 17:24:22 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[17-Apr-2023 17:24:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[17-Apr-2023 17:24:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[17-Apr-2023 17:24:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[27-Apr-2023 20:19:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-Apr-2023 20:19:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-Apr-2023 20:19:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[27-Apr-2023 20:19:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[27-Apr-2023 23:38:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-Apr-2023 23:38:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-Apr-2023 23:38:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[27-Apr-2023 23:38:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[27-Apr-2023 23:38:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[27-Apr-2023 23:38:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[05-May-2023 19:41:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[05-May-2023 19:41:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[05-May-2023 19:41:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[05-May-2023 19:41:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[06-May-2023 05:28:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[06-May-2023 05:28:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[06-May-2023 05:29:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[06-May-2023 05:29:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[06-May-2023 05:29:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[06-May-2023 05:29:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[22-May-2023 05:06:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[22-May-2023 05:06:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[22-May-2023 05:06:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[22-May-2023 05:06:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[27-May-2023 00:32:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 168
+[27-May-2023 00:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 168
+[27-May-2023 00:32:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 82
+[27-May-2023 00:32:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 82
+[27-May-2023 00:32:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:591
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 591
+[27-May-2023 00:32:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:591
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 591
+[27-May-2023 00:32:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 110
+[27-May-2023 00:32:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:110
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 110
+[27-May-2023 00:32:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:523
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 523
+[27-May-2023 00:32:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:523
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 523
+[27-May-2023 00:32:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-May-2023 00:32:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-May-2023 00:32:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[27-May-2023 00:32:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[27-May-2023 00:32:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[27-May-2023 00:32:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[31-May-2023 09:08:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[31-May-2023 09:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[31-May-2023 09:09:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[31-May-2023 09:09:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[31-May-2023 09:16:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[31-May-2023 09:16:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[31-May-2023 09:16:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[31-May-2023 09:16:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[12-Jun-2023 05:18:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[12-Jun-2023 05:18:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[12-Jun-2023 05:18:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[12-Jun-2023 05:18:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[12-Jun-2023 05:31:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[12-Jun-2023 05:31:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[12-Jun-2023 05:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[12-Jun-2023 05:32:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[15-Jun-2023 16:02:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[15-Jun-2023 16:03:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[15-Jun-2023 16:03:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[15-Jun-2023 16:03:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[15-Jun-2023 16:12:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[15-Jun-2023 16:12:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[15-Jun-2023 16:12:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[15-Jun-2023 16:12:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[22-Jul-2023 22:50:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[22-Jul-2023 22:50:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[22-Jul-2023 22:50:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[22-Jul-2023 22:50:16 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[22-Jul-2023 22:57:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[22-Jul-2023 22:57:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[22-Jul-2023 22:57:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[22-Jul-2023 22:57:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[24-Jul-2023 17:21:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[24-Jul-2023 17:21:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[24-Jul-2023 17:21:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[24-Jul-2023 17:21:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[24-Jul-2023 17:37:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[24-Jul-2023 17:37:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[24-Jul-2023 17:37:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[24-Jul-2023 17:37:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[06-Aug-2023 20:58:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[06-Aug-2023 20:59:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[06-Aug-2023 20:59:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[06-Aug-2023 20:59:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[06-Aug-2023 21:15:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[06-Aug-2023 21:15:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[06-Aug-2023 21:15:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[06-Aug-2023 21:15:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 145
+[12-Oct-2023 23:47:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[12-Oct-2023 23:47:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[12-Oct-2023 23:48:30 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[12-Oct-2023 23:48:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[12-Oct-2023 23:48:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[12-Oct-2023 23:48:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[12-Oct-2023 23:49:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[12-Oct-2023 23:49:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[26-Oct-2023 06:23:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/align.php on line 59
+[26-Oct-2023 06:23:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 168
+[26-Oct-2023 06:23:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/colors.php:123
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/colors.php on line 123
+[26-Oct-2023 06:23:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/custom-classname.php on line 59
+[26-Oct-2023 06:23:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 82
+[26-Oct-2023 06:23:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 36
+[26-Oct-2023 06:24:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 125
+[26-Oct-2023 06:24:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/generated-classname.php on line 66
+[26-Oct-2023 06:24:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 751
+[26-Oct-2023 06:24:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[26-Oct-2023 06:24:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[26-Oct-2023 06:24:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[26-Oct-2023 06:24:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[26-Oct-2023 06:24:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/typography.php:619
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/typography.php on line 619
+[26-Oct-2023 07:57:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[26-Oct-2023 07:57:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[26-Oct-2023 07:57:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[26-Oct-2023 07:58:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[26-Oct-2023 07:58:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[26-Oct-2023 07:58:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[26-Oct-2023 07:58:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[26-Oct-2023 07:58:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[07-Nov-2023 14:58:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:168
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 168
+[07-Nov-2023 14:58:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 82
+[07-Nov-2023 14:58:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 36
+[07-Nov-2023 14:58:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 125
+[07-Nov-2023 14:58:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:751
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 751
+[07-Nov-2023 14:58:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[07-Nov-2023 14:58:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[07-Nov-2023 14:58:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[07-Nov-2023 14:58:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 76
+[07-Nov-2023 20:04:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[07-Nov-2023 20:04:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[18-Nov-2023 10:31:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[18-Nov-2023 10:31:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[19-Nov-2023 03:55:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[19-Nov-2023 03:55:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[24-Nov-2023 23:44:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[24-Nov-2023 23:44:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[24-Nov-2023 23:45:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[24-Nov-2023 23:45:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[24-Nov-2023 23:45:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[24-Nov-2023 23:45:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[24-Nov-2023 23:45:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[24-Nov-2023 23:45:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[27-Nov-2023 11:38:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/align.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/align.php on line 59
+[27-Nov-2023 11:38:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[27-Nov-2023 11:38:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 170
+[27-Nov-2023 11:38:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/colors.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/colors.php on line 138
+[27-Nov-2023 11:38:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/custom-classname.php on line 59
+[27-Nov-2023 11:38:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 87
+[27-Nov-2023 11:38:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 36
+[27-Nov-2023 11:38:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 231
+[27-Nov-2023 11:38:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/generated-classname.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/generated-classname.php on line 66
+[27-Nov-2023 11:38:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 851
+[27-Nov-2023 11:38:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-Nov-2023 11:38:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[27-Nov-2023 11:38:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[27-Nov-2023 11:38:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 83
+[27-Nov-2023 11:38:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/typography.php:646
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/typography.php on line 646
+[27-Nov-2023 18:46:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[27-Nov-2023 18:46:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[27-Nov-2023 18:46:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 170
+[27-Nov-2023 18:46:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 170
+[27-Nov-2023 18:46:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 87
+[27-Nov-2023 18:46:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 87
+[27-Nov-2023 18:46:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 36
+[27-Nov-2023 18:46:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 36
+[27-Nov-2023 18:46:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 231
+[27-Nov-2023 18:46:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 231
+[27-Nov-2023 18:46:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 851
+[27-Nov-2023 18:46:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 851
+[27-Nov-2023 18:46:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-Nov-2023 18:46:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[27-Nov-2023 18:46:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[27-Nov-2023 18:46:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[27-Nov-2023 18:46:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[27-Nov-2023 18:46:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[27-Nov-2023 18:46:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 83
+[27-Nov-2023 18:46:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 83
+[06-Dec-2023 19:22:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[06-Dec-2023 19:22:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[06-Dec-2023 19:22:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 170
+[06-Dec-2023 19:22:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/border.php on line 170
+[06-Dec-2023 19:22:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 87
+[06-Dec-2023 19:22:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/dimensions.php on line 87
+[06-Dec-2023 19:22:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 36
+[06-Dec-2023 19:22:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/duotone.php on line 36
+[06-Dec-2023 19:22:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 231
+[06-Dec-2023 19:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/elements.php on line 231
+[06-Dec-2023 19:22:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 851
+[06-Dec-2023 19:22:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php:851
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/layout.php on line 851
+[06-Dec-2023 19:22:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[06-Dec-2023 19:22:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php:145
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/position.php on line 145
+[06-Dec-2023 19:22:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[06-Dec-2023 19:22:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php:151
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/settings.php on line 151
+[06-Dec-2023 19:22:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[06-Dec-2023 19:22:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/shadow.php on line 76
+[06-Dec-2023 19:22:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 83
+[06-Dec-2023 19:22:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/spacing.php on line 83
+[07-Dec-2023 21:39:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[07-Dec-2023 21:39:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[07-Dec-2023 21:53:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111
+[07-Dec-2023 21:53:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-supports/background.php on line 111

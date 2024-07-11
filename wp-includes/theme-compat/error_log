@@ -1,0 +1,72 @@
+[26-Oct-2023 06:43:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/comments.php on line 9
+[26-Oct-2023 06:43:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed-404.php on line 14
+[26-Oct-2023 06:43:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed-content.php on line 13
+[26-Oct-2023 06:43:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed.php on line 13
+[26-Oct-2023 06:43:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/footer-embed.php on line 18
+[26-Oct-2023 06:43:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/footer.php on line 9
+[26-Oct-2023 06:43:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/header-embed.php on line 19
+[26-Oct-2023 06:43:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/header.php on line 9
+[26-Oct-2023 06:43:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/sidebar.php on line 9
+[27-Nov-2023 11:53:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/comments.php on line 9
+[27-Nov-2023 11:53:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed-404.php on line 14
+[27-Nov-2023 11:53:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed-content.php on line 13
+[27-Nov-2023 11:53:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/embed.php on line 13
+[27-Nov-2023 11:53:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/footer-embed.php on line 18
+[27-Nov-2023 11:53:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/footer.php on line 9
+[27-Nov-2023 11:53:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/header-embed.php on line 19
+[27-Nov-2023 11:53:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/header.php on line 9
+[27-Nov-2023 11:54:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/theme-compat/sidebar.php on line 9

@@ -1,0 +1,80 @@
+[12-Jun-2023 06:40:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[12-Jun-2023 06:40:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[12-Jun-2023 06:44:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[12-Jun-2023 06:44:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[15-Jun-2023 17:17:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[15-Jun-2023 17:17:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[15-Jun-2023 17:19:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[15-Jun-2023 17:19:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[22-Jul-2023 23:38:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[22-Jul-2023 23:38:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[22-Jul-2023 23:39:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[22-Jul-2023 23:39:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[24-Jul-2023 19:24:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[24-Jul-2023 19:24:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[24-Jul-2023 19:30:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[24-Jul-2023 19:30:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[07-Dec-2023 23:11:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[07-Dec-2023 23:11:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[07-Dec-2023 23:15:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10
+[07-Dec-2023 23:15:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core32_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/src/Core32/Poly1305/State.php on line 10

@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en-CA"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang="en-CA"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en-CA"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-CA"> <!--<![endif]-->
+<head><style>img.lazy{min-height:1px}</style><link rel="preload" href="http://ktinformatik.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js" as="script">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="facebook-domain-verification" content="mmgievoj6cwz36bh5j8nmcu8jfu4ls" />
+  <link rel="alternate" type="application/rss+xml" title="KT Informatik Feed" href="https://ktinformatik.com//feed/">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+		<!-- Meta Tag Manager -->
+		<meta name="og:type" content="webssite" />
+		<meta name="og:title" content="AI &#038; Business Automation" />
+		<meta name="og:description" content="AI &#038; Business Automation Services AI &amp; ML AI / ML integration makes business efficient. Creating tools like a chat bot, Content creation. facial recognition to track and manage your resources. Business Automation Keep your business growing and transfer all &hellip; &lt;a href=&quot;https://ktinformatik.com/ai-business-automation/&quot;&gt;Read More&lt;/a&gt;" />
+		<meta name="og:locale" content="en_CA" />
+		<meta name="og:site_name" content="KT Informatik" />
+		<meta name="description" content="KT Informatik - IT Consultation, AI , Data Driven Web and Software Developement Agency" />
+		<meta name="keywords" content="    IT consulting, Website development, Software development, Mobile applications, AI solutions, Machine learning services, Data science consulting, Custom software solutions, Web application development, Mobile app development, Artificial intelligence consulting,     ML algorithms,     Data analytics services,     Technology consulting,     Software engineering,     AI-powered solutions,     ML models,     Data-driven insights,     IT solutions provider,     Technology solutions company" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- / Meta Tag Manager -->
+
+	<!-- This site is optimized with the Yoast SEO plugin v22.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>AI &amp; Business Automation - KT Informatik</title>
+	<link rel="canonical" href="https://ktinformatik.com/ai-business-automation/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="AI &amp; Business Automation - KT Informatik" />
+	<meta property="og:description" content="AI &#038; Business Automation Services AI &amp; ML AI / ML integration makes business efficient. Creating tools like a chat bot, Content creation. facial recognition to track and manage your resources. Business Automation Keep your business growing and transfer all &hellip; Read More" />
+	<meta property="og:url" content="https://ktinformatik.com/ai-business-automation/" />
+	<meta property="og:site_name" content="KT Informatik" />
+	<meta property="article:publisher" content="https://www.facebook.com/ktinformatik" />
+	<meta property="article:modified_time" content="2022-12-24T17:01:11+00:00" />
+	<meta property="og:image" content="http://ktinformatik.com/wp-content/uploads/2022/12/port6.jpg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@ktinformatik" />
+	<meta name="twitter:label1" content="Est. reading time" />
+	<meta name="twitter:data1" content="1 minute" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://ktinformatik.com/ai-business-automation/","url":"https://ktinformatik.com/ai-business-automation/","name":"AI & Business Automation - KT Informatik","isPartOf":{"@id":"https://ktinformatik.com/#website"},"primaryImageOfPage":{"@id":"https://ktinformatik.com/ai-business-automation/#primaryimage"},"image":{"@id":"https://ktinformatik.com/ai-business-automation/#primaryimage"},"thumbnailUrl":"http://ktinformatik.com/wp-content/uploads/2022/12/port6.jpg","datePublished":"2022-10-20T04:47:49+00:00","dateModified":"2022-12-24T17:01:11+00:00","breadcrumb":{"@id":"https://ktinformatik.com/ai-business-automation/#breadcrumb"},"inLanguage":"en-CA","potentialAction":[{"@type":"ReadAction","target":["https://ktinformatik.com/ai-business-automation/"]}]},{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://ktinformatik.com/ai-business-automation/#primaryimage","url":"http://ktinformatik.com/wp-content/uploads/2022/12/port6.jpg","contentUrl":"http://ktinformatik.com/wp-content/uploads/2022/12/port6.jpg"},{"@type":"BreadcrumbList","@id":"https://ktinformatik.com/ai-business-automation/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://ktinformatik.com/"},{"@type":"ListItem","position":2,"name":"AI &#038; Business Automation"}]},{"@type":"WebSite","@id":"https://ktinformatik.com/#website","url":"https://ktinformatik.com/","name":"KT Informatik","description":"IT Consultation Service","publisher":{"@id":"https://ktinformatik.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ktinformatik.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-CA"},{"@type":"Organization","@id":"https://ktinformatik.com/#organization","name":"KT Informatik","url":"https://ktinformatik.com/","logo":{"@type":"ImageObject","inLanguage":"en-CA","@id":"https://ktinformatik.com/#/schema/logo/image/","url":"https://ktinformatik.com/wp-content/uploads/2022/09/FullLogo_Transparent_NoBuffer.png","contentUrl":"https://ktinformatik.com/wp-content/uploads/2022/09/FullLogo_Transparent_NoBuffer.png","width":1280,"height":343,"caption":"KT Informatik"},"image":{"@id":"https://ktinformatik.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ktinformatik","https://x.com/ktinformatik","https://www.instagram.com/ktinformatik/","https://www.linkedin.com/company/kt-informatik/","https://www.youtube.com/channel/UCCxGKI2RlI0suH7L06hcQhQ"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="KT Informatik &raquo; Feed" href="https://ktinformatik.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KT Informatik &raquo; Comments Feed" href="https://ktinformatik.com/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/ktinformatik.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.4"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<link rel='stylesheet' id='formidable-css' href='http://ktinformatik.com/wp-content/plugins/formidable/css/formidableforms.css?ver=5172035' type='text/css' media='all' />
+<link rel='stylesheet' id='sby_styles-css' href='http://ktinformatik.com/wp-content/plugins/feeds-for-youtube/css/sb-youtube.min.css?ver=2.2.1' type='text/css' media='all' />
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='http://ktinformatik.com/wp-includes/css/dist/block-library/style.min.css?ver=6.5.4' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='awsm-jobs-general-css' href='http://ktinformatik.com/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=3.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='awsm-jobs-style-css' href='http://ktinformatik.com/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.4.6' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css' href='https://use.fontawesome.com/releases/v6.2.0/css/all.css' type='text/css' media='all' integrity="sha384-SOnAn/m2fVJCwnbEYgD4xzrPtvsXdElhOVvR8ND1YjB5nhGNwwf7nBQlhfAwHAZC" crossorigin="anonymous" />
+<link rel='stylesheet' id='elementor-icons-css' href='http://ktinformatik.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.16.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='http://ktinformatik.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.7.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='http://ktinformatik.com/wp-content/uploads/elementor/css/post-5.css?ver=1662257223' type='text/css' media='all' />
+<link rel='stylesheet' id='sby-styles-css' href='http://ktinformatik.com/wp-content/plugins/feeds-for-youtube/css/sb-youtube-free.min.css?ver=2.2.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='http://ktinformatik.com/wp-content/uploads/elementor/css/global.css?ver=1662257223' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-230-css' href='http://ktinformatik.com/wp-content/uploads/elementor/css/post-230.css?ver=1671918096' type='text/css' media='all' />
+<link rel='stylesheet' id='roots_app-css' href='http://ktinformatik.com/wp-content/themes/stratusx/assets/css/app.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css' href='https://use.fontawesome.com/releases/v6.2.0/css/v4-shims.css' type='text/css' media='all' integrity="sha384-MAgG0MNwzSXBbmOw4KK9yjMrRaUNSCk3WoZPkzVC1rmhXzerY4gqk/BLNYtdOFCO" crossorigin="anonymous" />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.5.4' type='text/css' media='all' />
+<script type="text/javascript" src="http://ktinformatik.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://ktinformatik.com/wp-json/" /><link rel="alternate" type="application/json" href="https://ktinformatik.com/wp-json/wp/v2/pages/230" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ktinformatik.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.4" />
+<link rel='shortlink' href='https://ktinformatik.com/?p=230' />
+<link rel="alternate" type="application/json+oembed" href="https://ktinformatik.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fktinformatik.com%2Fai-business-automation%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://ktinformatik.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fktinformatik.com%2Fai-business-automation%2F&#038;format=xml" />
+<!--[if lt IE 9]>
+<script src="http://ktinformatik.com/wp-content/themes/stratusx/assets/js/vendor/html5shiv.min.js"></script>
+<script src="http://ktinformatik.com/wp-content/themes/stratusx/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+<link rel="icon" href="https://ktinformatik.com/wp-content/uploads/2022/12/favicon-kt.png" sizes="32x32" />
+<link rel="icon" href="https://ktinformatik.com/wp-content/uploads/2022/12/favicon-kt.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ktinformatik.com/wp-content/uploads/2022/12/favicon-kt.png" />
+<meta name="msapplication-TileImage" content="https://ktinformatik.com/wp-content/uploads/2022/12/favicon-kt.png" />
+		<style type="text/css" id="wp-custom-css">
+			h1.entry-title {
+display: none;
+}
+
+#themo_single_post_layout .entry-title {
+display: block;
+}
+ul {
+  list-style-type: none;
+}		</style>
+		<style id="kirki-inline-styles">#logo img{max-height:50px;width:auto;}.navbar .navbar-nav{margin-top:19px;}.navbar .navbar-toggle{top:19px;}.themo_cart_icon{margin-top:calc(19px + 12px);}.navbar .navbar-nav > li > a, .navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li.active > a, .navbar .navbar-nav > li.active > a:hover, .navbar .navbar-nav > li.active > a:focus,.banner[data-transparent-header="true"].headhesive--clone .navbar-nav > li > a, .navbar .navbar-nav > li.th-accent{font-family:Lato;font-size:15px;font-weight:400;color:#333333;}.btn-cta-primary,.navbar .navbar-nav>li>a:hover:after,.navbar .navbar-nav>li.active>a:after,.navbar .navbar-nav>li.active>a:hover:after,.navbar .navbar-nav>li.active>a:focus:after,.headhesive--clone .navbar-nav > li > a:hover:after,.banner[data-transparent-header="true"].headhesive--clone .navbar-nav > li > a:hover:after,form input[type=submit],html .woocommerce a.button.alt,html .woocommerce-page a.button.alt,html .woocommerce a.button,html .woocommerce-page a.button,.woocommerce #respond input#submit.alt:hover,.woocommerce a.button.alt:hover,.woocommerce #respond input#submit.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce button.button.alt:hover,.woocommerce input.button.alt:hover,.woocommerce #respond input#submit.disabled,.woocommerce #respond input#submit:disabled,.woocommerce #respond input#submit:disabled[disabled],.woocommerce a.button.disabled,.woocommerce a.button:disabled,.woocommerce a.button:disabled[disabled],.woocommerce button.button.disabled,.woocommerce button.button:disabled,.woocommerce button.button:disabled[disabled],.woocommerce input.button.disabled,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce #respond input#submit.disabled:hover,.woocommerce #respond input#submit:disabled:hover,.woocommerce #respond input#submit:disabled[disabled]:hover,.woocommerce a.button.disabled:hover,.woocommerce a.button:disabled:hover,.woocommerce a.button:disabled[disabled]:hover,.woocommerce button.button.disabled:hover,.woocommerce button.button:disabled:hover,.woocommerce button.button:disabled[disabled]:hover,.woocommerce input.button.disabled:hover,.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce #respond input#submit.alt.disabled,.woocommerce #respond input#submit.alt.disabled:hover,.woocommerce #respond input#submit.alt:disabled,.woocommerce #respond input#submit.alt:disabled:hover,.woocommerce #respond input#submit.alt:disabled[disabled],.woocommerce #respond input#submit.alt:disabled[disabled]:hover,.woocommerce a.button.alt.disabled,.woocommerce a.button.alt.disabled:hover,.woocommerce a.button.alt:disabled,.woocommerce a.button.alt:disabled:hover,.woocommerce a.button.alt:disabled[disabled],.woocommerce a.button.alt:disabled[disabled]:hover,.woocommerce button.button.alt.disabled,.woocommerce button.button.alt.disabled:hover,.woocommerce button.button.alt:disabled,.woocommerce button.button.alt:disabled:hover,.woocommerce button.button.alt:disabled[disabled],.woocommerce button.button.alt:disabled[disabled]:hover,.woocommerce input.button.alt.disabled,.woocommerce input.button.alt.disabled:hover,.woocommerce input.button.alt:disabled,.woocommerce input.button.alt:disabled:hover,.woocommerce input.button.alt:disabled[disabled],.woocommerce input.button.alt:disabled[disabled]:hover,p.demo_store,.woocommerce.widget_price_filter .ui-slider .ui-slider-handle,.th-conversion form input[type=submit],.th-conversion .with_frm_style input[type=submit],.th-pricing-column.th-highlight,.search-submit,.search-submit:hover,.widget .tagcloud a:hover,.footer .tagcloud a:hover,.btn-standard-primary-form form .frm_submit input[type=submit],.btn-standard-primary-form form .frm_submit input[type=submit]:hover,.btn-ghost-primary-form form .frm_submit input[type=submit]:hover,.btn-cta-primary-form form .frm_submit input[type=submit],.btn-cta-primary-form form .frm_submit input[type=submit]:hover,.th-widget-area form input[type=submit],.th-widget-area .with_frm_style .frm_submit input[type=submit],.elementor-widget-themo-header.elementor-view-stacked .th-header-wrap .elementor-icon,.elementor-widget-themo-service-block.elementor-view-stacked .th-service-block-w .elementor-icon{background-color:#045089;}a,.accent,.navbar .navbar-nav .dropdown-menu li.active a,.navbar .navbar-nav .dropdown-menu li a:hover,.navbar .navbar-nav .dropdown-menu li.active a:hover,.page-title h1,.inner-container>h1.entry-title,.woocommerce ul.products li.product .price,.woocommerce ul.products li.product .price del,.woocommerce .single-product .product .price,.woocommerce.single-product .product .price,.woocommerce .single-product .product .price ins,.woocommerce.single-product .product .price ins,.a2c-ghost.woocommerce a.button,.th-cta .th-cta-text span,.elementor-widget-themo-info-card .th-info-card-wrap .elementor-icon-box-title,.map-info h3,.th-pkg-content h3,.th-pricing-cost,#main-flex-slider .slides h1,.th-team-member-social a i:hover,.elementor-widget-toggle .elementor-toggle .elementor-toggle-title,.elementor-widget-toggle .elementor-toggle .elementor-toggle-title.active,.elementor-widget-toggle .elementor-toggle .elementor-toggle-icon,.elementor-widget-themo-header .th-header-wrap .elementor-icon,.elementor-widget-themo-header.elementor-view-default .th-header-wrap .elementor-icon,.elementor-widget-themo-service-block .th-service-block-w .elementor-icon,.elementor-widget-themo-service-block.elementor-view-default .th-service-block-w .elementor-icon,.elementor-widget-themo-header.elementor-view-framed .th-header-wrap .elementor-icon,.elementor-widget-themo-service-block.elementor-view-framed .th-service-block-w .elementor-icon{color:#045089;}.btn-standard-primary,.btn-ghost-primary:hover,.pager li>a:hover,.pager li>span:hover,.a2c-ghost.woocommerce a.button:hover{background-color:#045089;}.btn-standard-primary,.btn-ghost-primary:hover,.pager li>a:hover,.pager li>span:hover,.a2c-ghost.woocommerce a.button:hover,.btn-standard-primary-form form .frm_submit input[type=submit],.btn-standard-primary-form form .frm_submit input[type=submit]:hover,.btn-ghost-primary-form form .frm_submit input[type=submit]:hover,.btn-ghost-primary-form form .frm_submit input[type=submit]{border-color:#045089;}.btn-ghost-primary,.btn-ghost-primary:focus,.th-portfolio-filters a.current,.a2c-ghost.woocommerce a.button,.btn-ghost-primary-form form .frm_submit input[type=submit]{color:#045089;}.btn-ghost-primary,.th-portfolio-filters a.current,.a2c-ghost.woocommerce a.button,.elementor-widget-themo-header.elementor-view-framed .th-header-wrap .elementor-icon,.elementor-widget-themo-service-block.elementor-view-framed .th-service-block-w .elementor-icon{border-color:#045089;}form select:focus,form textarea:focus,form input:focus,.th-widget-area .widget select:focus,.search-form input:focus{border-color:#045089!important;}{color:#f96d64;}.btn-cta-accent,.a2c-cta.woocommerce a.button,.a2c-cta.woocommerce a.button:hover,.btn-standard-accent-form form .frm_submit input[type=submit],.btn-standard-accent-form form .frm_submit input[type=submit]:hover,.btn-ghost-accent-form form .frm_submit input[type=submit]:hover,.btn-cta-accent-form form .frm_submit input[type=submit],.btn-cta-accent-form form .frm_submit input[type=submit]:hover{background-color:#f96d64;}body #booked-profile-page input[type=submit].button-primary,body table.booked-calendar input[type=submit].button-primary,body .booked-modal input[type=submit].button-primary,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,body #booked-profile-page .booked-profile-appt-list .appt-block.approved .status-block{background:#f96d64!important;}body #booked-profile-page input[type=submit].button-primary,body table.booked-calendar input[type=submit].button-primary,body .booked-modal input[type=submit].button-primary,body table.booked-calendar .booked-appt-list .timeslot .timeslot-people button,.btn-standard-accent-form form .frm_submit input[type=submit],.btn-standard-accent-form form .frm_submit input[type=submit]:hover,.btn-ghost-accent-form form .frm_submit input[type=submit]:hover,.btn-ghost-accent-form form .frm_submit input[type=submit]{border-color:#f96d64!important;}.btn-standard-accent,.btn-ghost-accent:hover{background-color:#f96d64;border-color:#f96d64;}.btn-ghost-accent,.btn-ghost-accent:focus,.btn-ghost-accent-form form .frm_submit input[type=submit]{color:#f96d64;}.btn-ghost-accent{border-color:#f96d64;}.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6{font-family:Lato;font-weight:400;}body,p,li{font-family:Lato;font-size:16px;font-weight:400;line-height:1.65;color:#333333;}body{background-color:#FFF;}/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh7USSwaPHw3q5d0N7w.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh7USSwiPHw3q5d0.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6uyw4BMUTPHjxAwWCWtFCfQ7A.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6uyw4BMUTPHjx4wWCWtFCc.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwaPHw3q5d0N7w.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwiPHw3q5d0.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh7USSwaPHw3q5d0N7w.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh7USSwiPHw3q5d0.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6uyw4BMUTPHjxAwWCWtFCfQ7A.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6uyw4BMUTPHjx4wWCWtFCc.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwaPHw3q5d0N7w.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwiPHw3q5d0.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh7USSwaPHw3q5d0N7w.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh7USSwiPHw3q5d0.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6uyw4BMUTPHjxAwWCWtFCfQ7A.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6uyw4BMUTPHjx4wWCWtFCc.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwaPHw3q5d0N7w.woff) format('woff');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(http://ktinformatik.com/wp-content/fonts/lato/S6u9w4BMUTPHh6UVSwiPHw3q5d0.woff) format('woff');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+
+<body class="page-template-default page page-id-230 elementor-default elementor-kit-5 elementor-page elementor-page-230 th-sticky-header">
+        <!-- Preloader Start -->
+        <div id="loader-wrapper">
+            <div id="loader"></div>
+            <div class="loader-section section-left"></div>
+            <div class="loader-section section-right"></div>
+        </div>
+        <!-- Preloader End -->
+    
+
+
+
+  
+<header class="banner navbar navbar-default navbar-static-top " role="banner" >
+    	<div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <div id="logo">
+                <a href="https://ktinformatik.com/">
+                   	                    <img  class="logo-main logo-reg lazy" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20187%2050'%3E%3C/svg%3E" data-src="https://ktinformatik.com/wp-content/uploads/2022/09/FullLogo_Transparent_NoBuffer-373x100.png"  height='50' width='187'   alt="KT Informatik" />
+				</a>
+            </div>
+        </div>
+
+        
+        <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+            <ul id="menu-header" class="nav navbar-nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-61"><a href="https://ktinformatik.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children dropdown menu-item-65"><a class="dropdown-toggle elementor-item" href="https://ktinformatik.com/services/">Services <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-230 current_page_item menu-item-241"><a href="https://ktinformatik.com/ai-business-automation/" aria-current="page">AI &#038; Business Automation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="https://ktinformatik.com/cyber-security-cloud-base/">Cyber Security &#038; Cloud Base</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-244"><a href="https://ktinformatik.com/data-analysis-prediction/">Data Analysis &#038; Prediction</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="https://ktinformatik.com/software-mobile-solution/">Software &#038; Mobile Solution</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-240"><a href="https://ktinformatik.com/iot-digital-engineering/">IoT &#038; Digital Engineering</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-245"><a href="https://ktinformatik.com/it-business-consultation/">IT &#038; Business Consultation</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-739"><a href="https://ktinformatik.com/sharepoint/">Share Point Services</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="https://ktinformatik.com/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-75"><a href="https://ktinformatik.com/industries/">Industries</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="https://ktinformatik.com/contact/">Contact</a></li>
+</ul>        </nav>
+	</div>
+</header>
+  <div class="wrap" role="document">
+  
+    <div class="content">
+
+        
+<div class="inner-container">
+	        <h1 class="entry-title">AI &#038; Business Automation</h1>
+    
+	
+        <section class="content-editor">
+    		<div data-elementor-type="wp-page" data-elementor-id="230" class="elementor elementor-230">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-f8a715 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="f8a715" data-element_type="section" id="next" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-53e1e56d" data-id="53e1e56d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5f797150 elementor-invisible elementor-widget elementor-widget-heading" data-id="5f797150" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h1 class="elementor-heading-title elementor-size-default">AI & Business Automation</h1>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-39fd85ce elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="39fd85ce" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5231dcb5" data-id="5231dcb5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-58247acf elementor-widget elementor-widget-heading" data-id="58247acf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Services</h4>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4e0fba62 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4e0fba62" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9a512c3" data-id="9a512c3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-63259483 elementor-widget elementor-widget-image" data-id="63259483" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img fetchpriority="high" decoding="async" width="800" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20600'%3E%3C/svg%3E" data-src="https://ktinformatik.com/wp-content/uploads/2022/12/port6.jpg" class="attachment-large size-large lazy" alt="" data-srcset="https://ktinformatik.com/wp-content/uploads/2022/12/port6.jpg 800w, https://ktinformatik.com/wp-content/uploads/2022/12/port6-300x225.jpg 300w, https://ktinformatik.com/wp-content/uploads/2022/12/port6-768x576.jpg 768w, https://ktinformatik.com/wp-content/uploads/2022/12/port6-67x50.jpg 67w, https://ktinformatik.com/wp-content/uploads/2022/12/port6-107x80.jpg 107w, https://ktinformatik.com/wp-content/uploads/2022/12/port6-394x296.jpg 394w" data-sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-49919888" data-id="49919888" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3333bdd6 elementor-widget elementor-widget-heading" data-id="3333bdd6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">AI &amp; ML</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-243eaafb elementor-widget elementor-widget-text-editor" data-id="243eaafb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.7.4 - 31-08-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>AI / ML integration makes business efficient. Creating tools like a chat bot, Content creation. facial recognition to track and manage your resources.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-29188937" data-id="29188937" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-18dcce6 elementor-widget elementor-widget-image" data-id="18dcce6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="800" height="600" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20800%20600'%3E%3C/svg%3E" data-src="https://ktinformatik.com/wp-content/uploads/2022/12/port5.jpg" class="attachment-large size-large lazy" alt="" data-srcset="https://ktinformatik.com/wp-content/uploads/2022/12/port5.jpg 800w, https://ktinformatik.com/wp-content/uploads/2022/12/port5-300x225.jpg 300w, https://ktinformatik.com/wp-content/uploads/2022/12/port5-768x576.jpg 768w, https://ktinformatik.com/wp-content/uploads/2022/12/port5-67x50.jpg 67w, https://ktinformatik.com/wp-content/uploads/2022/12/port5-107x80.jpg 107w, https://ktinformatik.com/wp-content/uploads/2022/12/port5-394x296.jpg 394w" data-sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-777e110a elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="777e110a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5bc10125" data-id="5bc10125" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-130a92aa elementor-widget elementor-widget-heading" data-id="130a92aa" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Business Automation</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7e77fcf5 elementor-widget elementor-widget-text-editor" data-id="7e77fcf5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Keep your business growing and transfer all your manual work into automated work. Why do you need to calculate your hr payroll and related other work when a machine can do it batter than a human without wasting your money?</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1883599c" data-id="1883599c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-24f082cd elementor-widget elementor-widget-image" data-id="24f082cd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="600" height="500" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20500'%3E%3C/svg%3E" data-src="https://ktinformatik.com/wp-content/uploads/2022/12/welcome6.jpg" class="attachment-large size-large lazy" alt="" data-srcset="https://ktinformatik.com/wp-content/uploads/2022/12/welcome6.jpg 600w, https://ktinformatik.com/wp-content/uploads/2022/12/welcome6-300x250.jpg 300w, https://ktinformatik.com/wp-content/uploads/2022/12/welcome6-60x50.jpg 60w, https://ktinformatik.com/wp-content/uploads/2022/12/welcome6-96x80.jpg 96w, https://ktinformatik.com/wp-content/uploads/2022/12/welcome6-364x303.jpg 364w" data-sizes="(max-width: 600px) 100vw, 600px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4cfb815f" data-id="4cfb815f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4a29e749 elementor-widget elementor-widget-heading" data-id="4a29e749" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Research</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-5c3807ea elementor-widget elementor-widget-text-editor" data-id="5c3807ea" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>We are not only the guy who loves to develop. We are researchers too. We have research papers published in the AI &amp; ML field. Even the Google Research team refereed one of our papers in their research.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ed6d36c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ed6d36c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5cf2f7c0" data-id="5cf2f7c0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-600251c2 elementor-invisible elementor-widget elementor-widget-heading" data-id="600251c2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Ready to automate your business?</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-14065e39" data-id="14065e39" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5e192649 elementor-align-right elementor-mobile-align-left elementor-invisible elementor-widget elementor-widget-button" data-id="5e192649" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://ktinformatik.com/contact/" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contact Us</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		    </section>    
+        <!-- Comment form for pages -->
+	<div class='container'>        <div class="row">
+			<div class="col-md-12">
+	        
+
+            </div>
+        </div>
+    </div><!-- /.container -->    <!-- End Comment form for pages -->
+    
+        
+                    
+    
+    </div><!-- /.inner-container -->
+    </div><!-- /.content -->
+  </div><!-- /.wrap -->
+
+  
+<div class="prefooter"></div>
+
+<footer class="footer" role="contentinfo">
+	<div class="container">
+							<div class="footer-widgets row th-widget-area">
+              	                    <div class="footer-area-1 col-md-4 col-sm-6">
+                    <section class="widget text-3 widget_text"><div class="widget-inner"><h3 class="widget-title">About Us</h3>			<div class="textwidget"><p>Started connecting dots in the beginning of  2022. As an IT Consulting Farm we started gaining our customer trust by providing them the best solution they can get. We are proud of our experienced workforce. The Company started with the vision of two dreamer. We started in a small basement of a Canadian House with the tech brains from both Canada and Bangladesh. We have a simple motto to help our clients to grow so that we can shine. We are happy to help you too.</p>
+</div>
+		</div></section><section class="widget nav_menu-3 widget_nav_menu"><div class="widget-inner"><h3 class="widget-title">Company</h3><div class="menu-footer-company-container"><ul id="menu-footer-company" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-178"><a href="https://ktinformatik.com/about/">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="https://ktinformatik.com/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="https://ktinformatik.com/terms-condition/">Terms &#038; Condition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-268"><a rel="privacy-policy" href="https://ktinformatik.com/privacy-policy/">Privacy Policy</a></li>
+</ul></div></div></section>                    </div>
+                                                    <div class="footer-area-2 col-md-4 col-sm-6">
+                    <section class="widget nav_menu-4 widget_nav_menu"><div class="widget-inner"><h3 class="widget-title">Services</h3><div class="menu-footer-services-container"><ul id="menu-footer-services" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-230 current_page_item menu-item-254"><a href="https://ktinformatik.com/ai-business-automation/" aria-current="page">AI &#038; Business Automation</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="https://ktinformatik.com/cyber-security-cloud-base/">Cyber Security &#038; Cloud Base</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-257"><a href="https://ktinformatik.com/data-analysis-prediction/">Data Analysis &#038; Prediction</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://ktinformatik.com/iot-digital-engineering/">IoT &#038; Digital Engineering</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-258"><a href="https://ktinformatik.com/it-business-consultation/">IT &#038; Business Consultation</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-256"><a href="https://ktinformatik.com/software-mobile-solution/">Software &#038; Mobile Solution</a></li>
+</ul></div></div></section><section class="widget nav_menu-6 widget_nav_menu"><div class="widget-inner"><h3 class="widget-title">Resources</h3><div class="menu-footer-resources-container"><ul id="menu-footer-resources" class="menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-583"><a href="https://ktinformatik.com/affiliate/">Affiliate</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-415"><a href="https://ktinformatik.com/blog/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-279"><a href="https://ktinformatik.com/career/">Career</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-281"><a href="https://ktinformatik.com/media/">Media</a></li>
+</ul></div></div></section>                    </div>
+                                                     <div class="footer-area-3 col-md-4 col-sm-6">
+                    
+				<section class="widget widget-th-contact-info">
+			<div class="widget-inner">
+									<h3 class="widget-title">Contact Info</h3>
+								<div class="th-contact-info-widget">
+					<div class='icon-blocks'><div class="icon-block"><p><a target='_blank' href='mailto:contact@ktinformatik.com'><i class='fa fa-envelope-open-o'></i><span>contact@ktinformatik.com</span></a></p></div><div class="icon-block"><p><a target='_blank' href='tel:+1%20(343)%20700-0633'><i class='fa fa-mobile'></i><span>+1 (343) 700-0633</span></a></p></div><div class="icon-block"><p><a target='_blank' href='http://20-175%20Trudelle%20St%20Toronto,%20ON%20M1J%203K5'><i class='fa fa-map-o'></i><span>20-175 Trudelle St Toronto, ON M1J 3K5</span></a></p></div></div>				</div>
+			</div>
+		</section>
+
+		
+        		<section class="widget widget-social">
+    		<div class="widget-inner">
+        		                <h3 class="widget-title">Socialize</h3>
+                        			<div class="soc-widget">
+        			<a target=_blank  href='https://www.facebook.com/ktinformatik/'><i class='fa fa-facebook'></i></a><a target=_blank  href='https://twitter.com/ktinformatik'><i class='fa fa-twitter'></i></a><a target=_blank  href='https://www.instagram.com/ktinformatik/'><i class='fa fa-instagram'></i></a><a target=_blank  href='https://www.linkedin.com/company/kt-informatik/'><i class='fa fa-linkedin'></i></a><a target=_blank  href='https://www.youtube.com/channel/UCCxGKI2RlI0suH7L06hcQhQ'><i class='fa fa-youtube'></i></a>           			</div>
+    			</div>
+		</section>
+
+		<section class="widget frm_show_form-3 widget_frm_show_form"><div class="widget-inner"><div class="frm_form_widget"><h3 class="widget-title">Subscribe Us</h3><div class="frm_forms  with_frm_style frm_style_formidable-style" id="frm_form_3_container" data-token="58ac675e52d4145bae8e282a311b6aae">
+<form enctype="multipart/form-data" method="post" class="frm-show-form  frm_js_validate  frm_ajax_submit " id="form_1yc9y"  data-token="58ac675e52d4145bae8e282a311b6aae">
+<div class="frm_form_fields ">
+<fieldset>
+<legend class="frm_screen_reader">Subscribe</legend>
+
+<div class="frm_fields_container">
+<input type="hidden" name="frm_action" value="create" />
+<input type="hidden" name="form_id" value="3" />
+<input type="hidden" name="frm_hide_fields_3" id="frm_hide_fields_3" value="" />
+<input type="hidden" name="form_key" value="1yc9y" />
+<input type="hidden" name="item_meta[0]" value="" />
+<input type="hidden" id="frm_submit_entry_3" name="frm_submit_entry_3" value="86fb50c1d9" /><input type="hidden" name="_wp_http_referer" value="/ai-business-automation/" /><div id="frm_field_15_container" class="frm_form_field form-field  frm_required_field frm_top_container frm12">
+    <label for="field_rb8cd" id="field_rb8cd_label" class="frm_primary_label">Email
+        <span class="frm_required" aria-hidden="true">*</span>
+    </label>
+    <input type="email" id="field_rb8cd" name="item_meta[15]" value=""  data-reqmsg="Email cannot be blank." aria-required="true" data-invmsg="Email is invalid" aria-invalid="false"  />
+    
+    
+</div>
+	<input type="hidden" name="item_key" value="" />
+				<div class="frm__65b1ddce44dec">
+				<label for="frm_email_3" >
+					If you are human, leave this field blank.				</label>
+				<input  id="frm_email_3" type="email" class="frm_verify" name="frm__65b1ddce44dec" value=""  />
+			</div>
+		<div class="frm_submit frm_flex">
+<button class="frm_button_submit" type="submit"  >Subscribe</button>
+
+
+
+</div></div>
+</fieldset>
+</div>
+<p style="display: none !important;" class="akismet-fields-container" data-prefix="ak_"><label>&#916;<textarea name="ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="ak_js" value="174"/><script>document.getElementById( "ak_js_1" ).setAttribute( "value", ( new Date() ).getTime() );</script></p></form>
+</div>
+</div></div></section>                    </div>
+                                 				</div>
+			    </div>
+    <div class="footer-btm-bar">        
+        <div class="container">    
+            <div class="footer-copyright row">
+                <div class="col-xs-12">
+                    <p><span class='footer_copy'>KT Informatik © 2023</span>  </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+			<script>(function(d, s, id) {
+			var js, fjs = d.getElementsByTagName(s)[0];
+			js = d.createElement(s); js.id = id;
+			js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js#xfbml=1&version=v6.0&autoLogAppEvents=1'
+			fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+			<div class="fb-customerchat" attribution="wordpress" attribution_version="2.3" page_id="106129642260510"></div>
+
+			<!-- YouTube Feeds JS -->
+<script type="text/javascript">
+
+</script>
+<link rel='stylesheet' id='e-animations-css' href='http://ktinformatik.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.7.4' type='text/css' media='all' />
+<script type="text/javascript" id="awsm-job-scripts-js-extra">
+/* <![CDATA[ */
+var awsmJobsPublic = {"ajaxurl":"https:\/\/ktinformatik.com\/wp-admin\/admin-ajax.php","is_tax_archive":"","is_search":"","job_id":"0","wp_max_upload_size":"536870912","deep_linking":{"search":true,"spec":true,"pagination":true},"i18n":{"loading_text":"Loading...","form_error_msg":{"general":"Error in submitting your application. Please try again later!","file_validation":"The file you have selected is too large."}},"vendors":{"selectric":true,"jquery_validation":true}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-content/plugins/wp-job-openings/assets/js/script.min.js?ver=3.4.6" id="awsm-job-scripts-js"></script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-content/themes/stratusx/assets/js/vendor/vendor_footer.js?ver=1.2" id="t_vendor_footer-js"></script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-content/themes/stratusx/assets/js/main.js?ver=1.3" id="roots_main-js"></script>
+<script type="text/javascript" id="formidable-js-extra">
+/* <![CDATA[ */
+var frm_js = {"ajax_url":"http:\/\/ktinformatik.com\/wp-admin\/admin-ajax.php","images_url":"http:\/\/ktinformatik.com\/wp-content\/plugins\/formidable\/images","loading":"Loading\u2026","remove":"Remove","offset":"4","nonce":"49b5505d09","id":"ID","no_results":"No results match","file_spam":"That file looks like Spam.","calc_error":"There is an error in the calculation in the field with key","empty_fields":"Please complete the preceding required fields before uploading a file.","focus_first_error":"1","include_alert_role":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-content/plugins/formidable/js/frm.min.js?ver=6.9.1" id="formidable-js"></script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.7.4" id="elementor-webpack-runtime-js"></script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.7.4" id="elementor-frontend-modules-js"></script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script type="text/javascript" id="elementor-frontend-js-before">
+/* <![CDATA[ */
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.7.4","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/ktinformatik.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":230,"title":"AI%20%26%20Business%20Automation%20-%20KT%20Informatik","excerpt":"","featuredImage":false}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://ktinformatik.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.7.4" id="elementor-frontend-js"></script>
+<script>window.w3tc_lazyload=1,window.lazyLoadOptions={elements_selector:".lazy",callback_loaded:function(t){var e;try{e=new CustomEvent("w3tc_lazyload_loaded",{detail:{e:t}})}catch(a){(e=document.createEvent("CustomEvent")).initCustomEvent("w3tc_lazyload_loaded",!1,!1,{e:t})}window.dispatchEvent(e)}}</script><script async src="http://ktinformatik.com/wp-content/plugins/w3-total-cache/pub/js/lazyload.min.js"></script></body>
+</html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using Disk: Enhanced 
+Lazy Loading
+
+Served from: ktinformatik.com @ 2024-06-12 00:10:36 by W3 Total Cache
+-->

@@ -1,0 +1,37 @@
+# Translation of Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk) in English (Canada)
+# This file is distributed under the same license as the Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-03-09 11:39:40+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: en_CA\n"
+"Project-Id-Version: Plugins - Facebook Chat Plugin &#8211; Live Chat Plugin for WordPress - Development (trunk)\n"
+
+#: facebook-messenger-customer-chat.php:148
+msgid "Support"
+msgstr "Support"
+
+#: facebook-messenger-customer-chat.php:143
+msgid "FAQ"
+msgstr "FAQ"
+
+#: facebook-messenger-customer-chat.php:106
+#: facebook-messenger-customer-chat.php:136
+msgid "Settings"
+msgstr "Settings"
+
+#: options.php:225
+msgid "Setup Chat Plugin"
+msgstr "Setup Chat Plugin"
+
+#. Author URI of the plugin
+msgid "https://developers.facebook.com"
+msgstr "https://developers.facebook.com"
+
+#. Description of the plugin
+msgid "With a few clicks, you can add the Facebook Chat Plugin to your website, enabling customers to message you while browsing your website. To see and reply to those messages, simply use the same messaging tools you use for your Facebook messaging, on desktop at facebook.com, Facebook Page Manager App (available on iOS and Android), or by adding your page account to Messenger. It's free, easy to install and comes with a user interface your customers are already familiar with."
+msgstr "With a few clicks, you can add the Facebook Chat Plugin to your website, enabling customers to message you while browsing your website. To see and reply to those messages, simply use the same messaging tools you use for your Facebook messaging, on desktop at facebook.com, Facebook Page Manager App (available on iOS and Android), or by adding your page account to Messenger. It's free, easy to install and comes with a user interface your customers are already familiar with."

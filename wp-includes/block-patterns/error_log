@@ -1,0 +1,216 @@
+[22-Dec-2022 14:56:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[22-Dec-2022 14:56:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[22-Dec-2022 14:56:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[22-Dec-2022 14:57:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[22-Dec-2022 14:57:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[22-Dec-2022 14:57:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[27-May-2023 00:31:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-May-2023 00:31:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-May-2023 00:31:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[27-May-2023 00:31:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[27-May-2023 00:31:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-May-2023 00:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-May-2023 00:31:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-May-2023 00:31:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-May-2023 00:31:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-May-2023 00:31:50 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-May-2023 00:31:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[27-May-2023 00:31:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[27-May-2023 00:31:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[27-May-2023 00:31:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[26-Oct-2023 06:22:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[26-Oct-2023 06:22:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[26-Oct-2023 06:22:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[26-Oct-2023 06:22:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[26-Oct-2023 06:23:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[26-Oct-2023 06:23:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[26-Oct-2023 06:23:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[07-Nov-2023 14:58:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[07-Nov-2023 14:58:36 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[07-Nov-2023 14:58:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[07-Nov-2023 14:58:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-Nov-2023 11:37:32 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-Nov-2023 11:37:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[27-Nov-2023 11:37:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-Nov-2023 11:37:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-Nov-2023 11:37:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-Nov-2023 11:37:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-standard-posts.php on line 9
+[27-Nov-2023 11:37:54 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/social-links-shared-background-color.php on line 9
+[27-Nov-2023 18:46:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-Nov-2023 18:46:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[27-Nov-2023 18:46:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-Nov-2023 18:46:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[27-Nov-2023 18:46:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-Nov-2023 18:46:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[27-Nov-2023 18:46:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[27-Nov-2023 18:46:06 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[06-Dec-2023 19:21:56 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[06-Dec-2023 19:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[06-Dec-2023 19:21:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[06-Dec-2023 19:21:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[06-Dec-2023 19:22:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[06-Dec-2023 19:22:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[06-Dec-2023 19:22:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[06-Dec-2023 19:22:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/block-patterns/query-small-posts.php on line 9

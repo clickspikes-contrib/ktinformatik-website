@@ -1,0 +1,108 @@
+[26-Oct-2023 06:39:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[26-Oct-2023 06:39:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[26-Oct-2023 06:40:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[31-Oct-2023 21:28:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[31-Oct-2023 21:28:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[31-Oct-2023 21:28:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[17-Nov-2023 03:56:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[17-Nov-2023 03:56:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[17-Nov-2023 03:56:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[19-Nov-2023 03:50:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[19-Nov-2023 03:50:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[19-Nov-2023 03:50:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[20-Nov-2023 12:19:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[20-Nov-2023 12:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[20-Nov-2023 12:19:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[24-Nov-2023 22:40:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[24-Nov-2023 22:40:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[24-Nov-2023 22:40:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[27-Nov-2023 11:50:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[27-Nov-2023 11:50:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[27-Nov-2023 11:50:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[28-Nov-2023 12:35:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[28-Nov-2023 12:35:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[28-Nov-2023 12:35:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[01-Dec-2023 18:35:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[01-Dec-2023 18:35:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[01-Dec-2023 18:35:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Sitemaps_Provider' not found in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

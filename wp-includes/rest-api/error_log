@@ -1,0 +1,40 @@
+[26-Oct-2023 06:34:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[31-Oct-2023 21:26:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[17-Nov-2023 03:54:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[19-Nov-2023 03:49:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[20-Nov-2023 12:17:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[24-Nov-2023 22:39:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[27-Nov-2023 11:47:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[28-Nov-2023 12:34:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[01-Dec-2023 18:33:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[09-Dec-2023 19:16:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTTP_Response' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/class-wp-rest-response.php on line 17

@@ -1,0 +1,40 @@
+[26-Oct-2023 06:19:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[31-Oct-2023 21:26:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[17-Nov-2023 03:54:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[19-Nov-2023 03:48:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[20-Nov-2023 12:16:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[24-Nov-2023 22:38:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[27-Nov-2023 11:35:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[28-Nov-2023 12:33:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[01-Dec-2023 18:32:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53
+[09-Dec-2023 19:16:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'SimplePie' not found in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/SimplePie/Core.php on line 53

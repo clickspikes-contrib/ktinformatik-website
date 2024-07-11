@@ -1,0 +1,8 @@
+[26-Oct-2023 06:16:57 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\HookManager' not found in /home/rafi317/ktinformatik.com/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/Requests/src/Hooks.php on line 19
+[27-Nov-2023 11:33:12 America/New_York] PHP Fatal error:  Uncaught Error: Interface 'WpOrg\Requests\HookManager' not found in /home/rafi317/ktinformatik.com/wp-includes/Requests/src/Hooks.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/Requests/src/Hooks.php on line 19

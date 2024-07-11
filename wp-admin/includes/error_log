@@ -1,0 +1,267 @@
+[09-Jul-2023 23:08:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 23:08:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 23:19:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 23:19:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 23:32:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[09-Jul-2023 23:32:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 22:12:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[10-Jul-2023 22:12:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[11-Sep-2023 08:29:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[11-Sep-2023 08:30:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[14-Sep-2023 08:00:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[14-Sep-2023 08:00:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[31-Oct-2023 21:27:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin-filters.php on line 11
+[31-Oct-2023 21:27:09 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_locale() in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/admin.php on line 16
+[31-Oct-2023 21:27:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-automatic-upgrader-skin.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-automatic-upgrader-skin.php on line 21
+[31-Oct-2023 21:27:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-bulk-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-bulk-plugin-upgrader-skin.php on line 18
+[31-Oct-2023 21:27:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Bulk_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-bulk-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-bulk-theme-upgrader-skin.php on line 18
+[31-Oct-2023 21:27:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-bulk-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-bulk-upgrader-skin.php on line 18
+[31-Oct-2023 21:27:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-core-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-core-upgrader.php on line 21
+[31-Oct-2023 21:27:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-ftp-pure.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-ftp-pure.php on line 28
+[31-Oct-2023 21:27:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ftp_base' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-ftp-sockets.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-ftp-sockets.php on line 28
+[31-Oct-2023 21:27:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-language-pack-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-language-pack-upgrader-skin.php on line 18
+[31-Oct-2023 21:27:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-language-pack-upgrader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-language-pack-upgrader.php on line 19
+[31-Oct-2023 21:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-plugin-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-plugin-installer-skin.php on line 18
+[31-Oct-2023 21:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-plugin-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-plugin-upgrader-skin.php on line 18
+[31-Oct-2023 21:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-plugin-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-plugin-upgrader.php on line 21
+[31-Oct-2023 21:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-theme-installer-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-theme-installer-skin.php on line 18
+[31-Oct-2023 21:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-theme-upgrader-skin.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-theme-upgrader-skin.php on line 18
+[31-Oct-2023 21:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Upgrader' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-theme-upgrader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-theme-upgrader.php on line 21
+[31-Oct-2023 21:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-walker-category-checklist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-walker-category-checklist.php on line 19
+[31-Oct-2023 21:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-walker-nav-menu-checklist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-walker-nav-menu-checklist.php on line 16
+[31-Oct-2023 21:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Walker_Nav_Menu' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-walker-nav-menu-edit.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-walker-nav-menu-edit.php on line 17
+[31-Oct-2023 21:27:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Automatic_Upgrader_Skin' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-ajax-upgrader-skin.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-ajax-upgrader-skin.php on line 19
+[31-Oct-2023 21:27:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-application-passwords-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-application-passwords-list-table.php on line 17
+[31-Oct-2023 21:27:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-comments-list-table.php on line 17
+[31-Oct-2023 21:27:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-filesystem-direct.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-filesystem-direct.php on line 16
+[31-Oct-2023 21:27:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-filesystem-ftpext.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-filesystem-ftpext.php on line 16
+[31-Oct-2023 21:27:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-filesystem-ftpsockets.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-filesystem-ftpsockets.php on line 16
+[31-Oct-2023 21:27:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Filesystem_Base' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-filesystem-ssh2.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-filesystem-ssh2.php on line 36
+[31-Oct-2023 21:27:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-links-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-links-list-table.php on line 17
+[31-Oct-2023 21:27:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-list-table-compat.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-list-table-compat.php on line 15
+[31-Oct-2023 21:27:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-media-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-media-list-table.php on line 17
+[31-Oct-2023 21:27:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-ms-sites-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-ms-sites-list-table.php on line 17
+[31-Oct-2023 21:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-ms-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-ms-themes-list-table.php on line 17
+[31-Oct-2023 21:27:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-ms-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-ms-users-list-table.php on line 17
+[31-Oct-2023 21:27:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-plugin-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-plugin-install-list-table.php on line 17
+[31-Oct-2023 21:27:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-plugins-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-plugins-list-table.php on line 17
+[31-Oct-2023 21:27:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Comments_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-post-comments-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-post-comments-list-table.php on line 17
+[31-Oct-2023 21:27:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-posts-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-posts-list-table.php on line 17
+[31-Oct-2023 21:27:33 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[31-Oct-2023 21:27:33 America/New_York] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[31-Oct-2023 21:27:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-privacy-data-export-requests-list-table.php on line 11
+[31-Oct-2023 21:27:33 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[31-Oct-2023 21:27:33 America/New_York] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php): failed to open stream: No such file or directory in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[31-Oct-2023 21:27:33 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-privacy-requests-table.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-privacy-data-removal-requests-list-table.php on line 11
+[31-Oct-2023 21:27:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-privacy-requests-table.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-privacy-requests-table.php on line 10
+[31-Oct-2023 21:27:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-terms-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-terms-list-table.php on line 17
+[31-Oct-2023 21:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Themes_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-theme-install-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-theme-install-list-table.php on line 17
+[31-Oct-2023 21:27:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-themes-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-themes-list-table.php on line 17
+[31-Oct-2023 21:27:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-upgrader-skins.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-upgrader-skins.php on line 11
+[31-Oct-2023 21:27:39 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-upgrader.php on line 13
+[31-Oct-2023 21:27:39 America/New_York] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-wp-upgrader-skin.php): failed to open stream: No such file or directory in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-upgrader.php on line 13
+[31-Oct-2023 21:27:39 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-wp-upgrader-skin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-upgrader.php on line 13
+[31-Oct-2023 21:27:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-users-list-table.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/class-wp-users-list-table.php on line 17
+[31-Oct-2023 21:27:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rafi317/ktinformatik.com/wp-admin/includes/continents-cities.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/continents-cities.php on line 12
+[31-Oct-2023 21:27:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_Privacy_Data_Export_Requests_List_Table' not found in /home/rafi317/ktinformatik.com/wp-admin/includes/deprecated.php:1534
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/deprecated.php on line 1534
+[31-Oct-2023 21:27:42 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rafi317/ktinformatik.com/wp-admin/includes/edit-tag-messages.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/edit-tag-messages.php on line 14
+[31-Oct-2023 21:27:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function __() in /home/rafi317/ktinformatik.com/wp-admin/includes/file.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/file.php on line 16
+[31-Oct-2023 21:27:45 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/rafi317/ktinformatik.com/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/menu.php on line 9
+[31-Oct-2023 21:27:47 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/rafi317/ktinformatik.com/wp-admin/includes/ms-admin-filters.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/ms-admin-filters.php on line 11
+[31-Oct-2023 21:27:48 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/rafi317/ktinformatik.com/wp-admin/includes/nav-menu.php on line 11
+[31-Oct-2023 21:27:48 America/New_York] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php): failed to open stream: No such file or directory in /home/rafi317/ktinformatik.com/wp-admin/includes/nav-menu.php on line 11
+[31-Oct-2023 21:27:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-nav-menu-edit.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rafi317/ktinformatik.com/wp-admin/includes/nav-menu.php on line 11
+[31-Oct-2023 21:27:52 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function get_charset_collate() on null in /home/rafi317/ktinformatik.com/wp-admin/includes/schema.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-admin/includes/schema.php on line 23
+[31-Oct-2023 21:27:53 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/rafi317/ktinformatik.com/wp-admin/includes/template.php on line 12
+[31-Oct-2023 21:27:53 America/New_York] PHP Warning:  require_once(ABSPATHwp-admin/includes/class-walker-category-checklist.php): failed to open stream: No such file or directory in /home/rafi317/ktinformatik.com/wp-admin/includes/template.php on line 12
+[31-Oct-2023 21:27:53 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/class-walker-category-checklist.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rafi317/ktinformatik.com/wp-admin/includes/template.php on line 12
+[31-Oct-2023 21:27:56 America/New_York] PHP Warning:  Use of undefined constant WP_CONTENT_DIR - assumed 'WP_CONTENT_DIR' (this will throw an Error in a future version of PHP) in /home/rafi317/ktinformatik.com/wp-admin/includes/upgrade.php on line 12
+[31-Oct-2023 21:27:56 America/New_York] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/rafi317/ktinformatik.com/wp-admin/includes/upgrade.php on line 17
+[31-Oct-2023 21:27:56 America/New_York] PHP Warning:  require_once(ABSPATHwp-admin/includes/admin.php): failed to open stream: No such file or directory in /home/rafi317/ktinformatik.com/wp-admin/includes/upgrade.php on line 17
+[31-Oct-2023 21:27:56 America/New_York] PHP Fatal error:  require_once(): Failed opening required 'ABSPATHwp-admin/includes/admin.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rafi317/ktinformatik.com/wp-admin/includes/upgrade.php on line 17

@@ -1,0 +1,1040 @@
+[12-Jun-2023 06:15:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[12-Jun-2023 06:15:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[12-Jun-2023 06:16:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[12-Jun-2023 06:16:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[12-Jun-2023 06:16:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[12-Jun-2023 06:16:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[12-Jun-2023 06:16:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[12-Jun-2023 06:16:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[12-Jun-2023 06:16:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[12-Jun-2023 06:16:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[12-Jun-2023 06:16:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[12-Jun-2023 06:16:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[12-Jun-2023 06:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[12-Jun-2023 06:17:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[12-Jun-2023 06:17:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[12-Jun-2023 06:17:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[12-Jun-2023 06:17:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[12-Jun-2023 06:17:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[12-Jun-2023 06:17:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[12-Jun-2023 06:17:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[12-Jun-2023 06:17:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[12-Jun-2023 06:17:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[12-Jun-2023 06:18:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[12-Jun-2023 06:18:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[12-Jun-2023 06:18:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[12-Jun-2023 06:18:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[12-Jun-2023 06:18:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[12-Jun-2023 06:18:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[12-Jun-2023 06:18:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[12-Jun-2023 06:18:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[12-Jun-2023 06:19:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[12-Jun-2023 06:19:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[12-Jun-2023 06:19:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[12-Jun-2023 06:19:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[12-Jun-2023 06:20:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[12-Jun-2023 06:20:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[12-Jun-2023 06:20:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[12-Jun-2023 06:20:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[12-Jun-2023 06:20:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[12-Jun-2023 06:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[12-Jun-2023 06:20:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[12-Jun-2023 06:20:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[12-Jun-2023 06:21:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[12-Jun-2023 06:21:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[12-Jun-2023 06:21:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[12-Jun-2023 06:21:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[12-Jun-2023 06:21:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[12-Jun-2023 06:21:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[12-Jun-2023 06:21:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[12-Jun-2023 06:21:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[12-Jun-2023 06:21:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[12-Jun-2023 06:21:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[15-Jun-2023 17:02:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[15-Jun-2023 17:02:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[15-Jun-2023 17:02:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[15-Jun-2023 17:02:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[15-Jun-2023 17:02:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[15-Jun-2023 17:02:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[15-Jun-2023 17:03:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[15-Jun-2023 17:03:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[15-Jun-2023 17:03:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[15-Jun-2023 17:03:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[15-Jun-2023 17:03:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[15-Jun-2023 17:03:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[15-Jun-2023 17:03:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[15-Jun-2023 17:03:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[15-Jun-2023 17:03:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[15-Jun-2023 17:03:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[15-Jun-2023 17:03:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[15-Jun-2023 17:03:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[15-Jun-2023 17:03:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[15-Jun-2023 17:03:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[15-Jun-2023 17:04:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[15-Jun-2023 17:04:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[15-Jun-2023 17:04:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[15-Jun-2023 17:04:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[15-Jun-2023 17:04:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[15-Jun-2023 17:04:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[15-Jun-2023 17:04:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[15-Jun-2023 17:04:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[15-Jun-2023 17:04:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[15-Jun-2023 17:04:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[15-Jun-2023 17:05:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[15-Jun-2023 17:05:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[15-Jun-2023 17:05:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[15-Jun-2023 17:05:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[15-Jun-2023 17:05:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[15-Jun-2023 17:05:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[15-Jun-2023 17:05:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[15-Jun-2023 17:05:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[15-Jun-2023 17:06:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[15-Jun-2023 17:06:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[15-Jun-2023 17:06:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[15-Jun-2023 17:06:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[15-Jun-2023 17:06:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[15-Jun-2023 17:06:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[15-Jun-2023 17:06:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[15-Jun-2023 17:06:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[15-Jun-2023 17:06:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[15-Jun-2023 17:06:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[15-Jun-2023 17:06:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[15-Jun-2023 17:06:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[15-Jun-2023 17:06:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[15-Jun-2023 17:06:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[22-Jul-2023 23:29:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[22-Jul-2023 23:29:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[22-Jul-2023 23:29:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[22-Jul-2023 23:29:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[22-Jul-2023 23:29:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[22-Jul-2023 23:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[22-Jul-2023 23:29:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[22-Jul-2023 23:29:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[22-Jul-2023 23:30:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[22-Jul-2023 23:30:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[22-Jul-2023 23:30:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[22-Jul-2023 23:30:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[22-Jul-2023 23:30:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[22-Jul-2023 23:30:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[22-Jul-2023 23:30:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[22-Jul-2023 23:30:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[22-Jul-2023 23:30:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[22-Jul-2023 23:30:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[22-Jul-2023 23:30:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[22-Jul-2023 23:30:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[22-Jul-2023 23:30:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[22-Jul-2023 23:30:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[22-Jul-2023 23:30:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[22-Jul-2023 23:30:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[22-Jul-2023 23:30:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[22-Jul-2023 23:30:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[22-Jul-2023 23:30:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[22-Jul-2023 23:30:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[22-Jul-2023 23:30:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[22-Jul-2023 23:30:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[22-Jul-2023 23:30:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[22-Jul-2023 23:30:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[22-Jul-2023 23:31:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[22-Jul-2023 23:31:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[22-Jul-2023 23:31:07 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[22-Jul-2023 23:31:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[22-Jul-2023 23:31:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[22-Jul-2023 23:31:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[22-Jul-2023 23:31:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[22-Jul-2023 23:31:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[22-Jul-2023 23:31:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[22-Jul-2023 23:31:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[22-Jul-2023 23:31:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[22-Jul-2023 23:31:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[22-Jul-2023 23:31:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[22-Jul-2023 23:31:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[22-Jul-2023 23:31:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[22-Jul-2023 23:31:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[22-Jul-2023 23:31:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[22-Jul-2023 23:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[22-Jul-2023 23:31:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[22-Jul-2023 23:31:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[24-Jul-2023 18:49:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[24-Jul-2023 18:49:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[24-Jul-2023 18:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[24-Jul-2023 18:49:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[24-Jul-2023 18:49:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[24-Jul-2023 18:49:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[24-Jul-2023 18:50:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[24-Jul-2023 18:50:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[24-Jul-2023 18:50:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[24-Jul-2023 18:50:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[24-Jul-2023 18:50:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[24-Jul-2023 18:50:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[24-Jul-2023 18:50:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[24-Jul-2023 18:50:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[24-Jul-2023 18:50:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[24-Jul-2023 18:51:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[24-Jul-2023 18:51:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[24-Jul-2023 18:51:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[24-Jul-2023 18:51:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[24-Jul-2023 18:51:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[24-Jul-2023 18:51:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[24-Jul-2023 18:51:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[24-Jul-2023 18:51:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[24-Jul-2023 18:51:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[24-Jul-2023 18:52:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[24-Jul-2023 18:52:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[24-Jul-2023 18:52:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[24-Jul-2023 18:52:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[24-Jul-2023 18:52:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[24-Jul-2023 18:52:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[24-Jul-2023 18:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[24-Jul-2023 18:53:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[24-Jul-2023 18:54:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[24-Jul-2023 18:54:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[24-Jul-2023 18:54:52 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[24-Jul-2023 18:54:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[24-Jul-2023 18:55:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[24-Jul-2023 18:55:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[24-Jul-2023 18:55:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[24-Jul-2023 18:55:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[24-Jul-2023 18:56:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[24-Jul-2023 18:56:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[24-Jul-2023 18:56:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[24-Jul-2023 18:56:35 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[24-Jul-2023 18:56:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[24-Jul-2023 18:56:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[24-Jul-2023 18:57:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[24-Jul-2023 18:57:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[24-Jul-2023 18:57:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[24-Jul-2023 18:57:33 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[24-Jul-2023 18:57:41 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[24-Jul-2023 18:57:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[07-Dec-2023 22:47:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[07-Dec-2023 22:47:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[07-Dec-2023 22:48:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[07-Dec-2023 22:48:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[07-Dec-2023 22:48:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[07-Dec-2023 22:48:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[07-Dec-2023 22:48:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[07-Dec-2023 22:48:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[07-Dec-2023 22:48:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[07-Dec-2023 22:48:45 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[07-Dec-2023 22:49:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[07-Dec-2023 22:49:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[07-Dec-2023 22:49:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[07-Dec-2023 22:49:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[07-Dec-2023 22:49:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[07-Dec-2023 22:49:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[07-Dec-2023 22:49:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[07-Dec-2023 22:49:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[07-Dec-2023 22:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[07-Dec-2023 22:49:40 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[07-Dec-2023 22:49:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[07-Dec-2023 22:49:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[07-Dec-2023 22:50:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[07-Dec-2023 22:50:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[07-Dec-2023 22:50:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[07-Dec-2023 22:50:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[07-Dec-2023 22:50:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[07-Dec-2023 22:50:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_BLAKE2b' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/BLAKE2b.php on line 4
+[07-Dec-2023 22:51:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[07-Dec-2023 22:51:10 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_ChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/ChaCha20.php on line 4
+[07-Dec-2023 22:51:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[07-Dec-2023 22:51:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Curve25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Curve25519.php on line 4
+[07-Dec-2023 22:52:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[07-Dec-2023 22:52:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Ed25519.php on line 4
+[07-Dec-2023 22:52:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[07-Dec-2023 22:52:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HChaCha20.php on line 4
+[07-Dec-2023 22:52:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[07-Dec-2023 22:52:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_HSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/HSalsa20.php on line 4
+[07-Dec-2023 22:52:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[07-Dec-2023 22:52:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Poly1305' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Poly1305.php on line 4
+[07-Dec-2023 22:53:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[07-Dec-2023 22:53:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Salsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Salsa20.php on line 4
+[07-Dec-2023 22:53:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[07-Dec-2023 22:53:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_SipHash' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/SipHash.php on line 4
+[07-Dec-2023 22:53:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[07-Dec-2023 22:53:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_Util' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Util.php on line 4
+[07-Dec-2023 22:53:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[07-Dec-2023 22:53:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_X25519' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/X25519.php on line 4
+[07-Dec-2023 22:53:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[07-Dec-2023 22:53:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XChaCha20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/XChaCha20.php on line 4
+[07-Dec-2023 22:53:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4
+[07-Dec-2023 22:53:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Core_XSalsa20' not found in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/sodium_compat/namespaced/Core/Xsalsa20.php on line 4

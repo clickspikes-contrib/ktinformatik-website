@@ -1,0 +1,384 @@
+[31-May-2023 09:29:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[31-May-2023 09:29:21 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[31-May-2023 09:29:38 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[31-May-2023 09:29:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[31-May-2023 09:29:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[31-May-2023 09:29:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[31-May-2023 09:30:02 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[31-May-2023 09:30:03 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[12-Jun-2023 05:54:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[12-Jun-2023 05:54:29 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[12-Jun-2023 05:54:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[12-Jun-2023 05:54:37 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[12-Jun-2023 05:54:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[12-Jun-2023 05:54:44 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[12-Jun-2023 05:55:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[12-Jun-2023 05:55:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[12-Jun-2023 06:09:00 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[12-Jun-2023 06:09:01 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[12-Jun-2023 06:09:25 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[12-Jun-2023 06:09:26 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[12-Jun-2023 06:09:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[12-Jun-2023 06:09:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[12-Jun-2023 06:09:54 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[12-Jun-2023 06:09:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[15-Jun-2023 16:46:32 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[15-Jun-2023 16:46:34 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[15-Jun-2023 16:46:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[15-Jun-2023 16:46:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[15-Jun-2023 16:46:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[15-Jun-2023 16:46:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[15-Jun-2023 16:46:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[15-Jun-2023 16:46:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[15-Jun-2023 16:58:08 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[15-Jun-2023 16:58:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[15-Jun-2023 16:58:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[15-Jun-2023 16:58:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[15-Jun-2023 16:58:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[15-Jun-2023 16:58:24 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[15-Jun-2023 16:58:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[15-Jun-2023 16:58:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[22-Jul-2023 23:21:47 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[22-Jul-2023 23:21:50 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[22-Jul-2023 23:21:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[22-Jul-2023 23:21:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[22-Jul-2023 23:21:56 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[22-Jul-2023 23:21:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[22-Jul-2023 23:21:58 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[22-Jul-2023 23:21:59 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[22-Jul-2023 23:27:04 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[22-Jul-2023 23:27:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[22-Jul-2023 23:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[22-Jul-2023 23:27:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[22-Jul-2023 23:27:18 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[22-Jul-2023 23:27:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[22-Jul-2023 23:27:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[22-Jul-2023 23:27:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[24-Jul-2023 18:13:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[24-Jul-2023 18:13:43 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[24-Jul-2023 18:14:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[24-Jul-2023 18:14:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[24-Jul-2023 18:14:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[24-Jul-2023 18:14:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[24-Jul-2023 18:14:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[24-Jul-2023 18:14:42 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[24-Jul-2023 18:39:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[24-Jul-2023 18:39:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[24-Jul-2023 18:40:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[24-Jul-2023 18:40:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[24-Jul-2023 18:40:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[24-Jul-2023 18:40:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[24-Jul-2023 18:41:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[24-Jul-2023 18:41:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[26-Oct-2023 06:38:09 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[26-Oct-2023 06:38:19 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[26-Oct-2023 06:38:23 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[26-Oct-2023 06:38:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[27-Nov-2023 11:49:39 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[27-Nov-2023 11:49:46 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[27-Nov-2023 11:49:48 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[27-Nov-2023 11:49:51 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[07-Dec-2023 22:21:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[07-Dec-2023 22:21:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[07-Dec-2023 22:22:05 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[07-Dec-2023 22:22:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[07-Dec-2023 22:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[07-Dec-2023 22:22:20 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[07-Dec-2023 22:22:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[07-Dec-2023 22:22:27 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[07-Dec-2023 22:40:30 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[07-Dec-2023 22:40:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[07-Dec-2023 22:40:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[07-Dec-2023 22:40:49 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[07-Dec-2023 22:40:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[07-Dec-2023 22:40:55 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[07-Dec-2023 22:41:15 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[07-Dec-2023 22:41:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_REST_Meta_Fields' not found in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17

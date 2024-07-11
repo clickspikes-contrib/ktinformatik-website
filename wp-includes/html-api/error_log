@@ -1,0 +1,28 @@
+[18-Nov-2023 10:36:11 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[18-Nov-2023 10:36:22 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[24-Nov-2023 23:48:16 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[24-Nov-2023 23:48:17 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[27-Nov-2023 11:44:53 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[07-Dec-2023 21:42:12 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php on line 131
+[07-Dec-2023 21:42:13 America/New_York] PHP Fatal error:  Uncaught Error: Class 'WP_HTML_Tag_Processor' not found in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php:131
+Stack trace:
+#0 {main}
+  thrown in /home/rafi317/ktinformatik.com/wp-includes/html-api/class-wp-html-processor.php on line 131
